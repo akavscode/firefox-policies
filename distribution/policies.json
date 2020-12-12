@@ -58,6 +58,8 @@
       "browser.shell.checkDefaultBrowser": false,
       "browser.urlbar.suggest.topsites": false,
       "datareporting.policy.dataSubmissionEnabled": false,
+      "dom.push.enabled": false,
+      "dom.push.connection.enabled": false,
       "extensions.formautofill.addresses.enabled": false,
       "extensions.htmlaboutaddons.recommendations.enabled": false,
       "extensions.ui.locale.hidden": false,
